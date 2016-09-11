@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="curso.android.sistemamunicipal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_bienvenida"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".control.Bienvenida"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".control.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".control.Municipio"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".control.BancoPagos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".control.ImpuestoPredial"
+            android:label="@string/app_name_predio"
+            android:screenOrientation="portrait" />
+        <activity android:name=".control.PatenteMunicipal"
+            android:label="@string/app_name_patente"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

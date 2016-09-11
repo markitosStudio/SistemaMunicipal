@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_bienvenida.png",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/mipmap-xxhdpi/ic_bienvenida.png"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

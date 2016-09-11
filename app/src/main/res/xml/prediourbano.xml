@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deudamunicipal>
+    <deudapredio>
+        <tipo>PU</tipo>
+        <cedula>2400000929</cedula>
+        <contribuyente>DAVID ORLANDO TOALA RODRIGUEZ</contribuyente>
+        <clavecatastral>52-1-2-3-4-5</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>25.4</valortitulo>
+        <anio>2015</anio>
+        <interes>10</interes>
+    </deudapredio>
+    <deudapredio>
+        <tipo>PU</tipo>
+        <cedula>2400000929</cedula>
+        <contribuyente>DAVID ORLANDO TOALO RODRIGUEZ</contribuyente>
+        <clavecatastral>52-1-2-3-4-8</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>100</valortitulo>
+        <anio>2016</anio>
+        <interes>50</interes>
+    </deudapredio>
+    <deudapredio>
+        <tipo>PU</tipo>
+        <cedula>2400007072</cedula>
+        <contribuyente>YAGUAL QUIRUMBAY GEOMAYRA MARIA</contribuyente>
+        <clavecatastral>52-1-2-3-4-8</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>30</valortitulo>
+        <anio>2016</anio>
+        <interes>0</interes>
+    </deudapredio>
+    <deudapredio>
+        <tipo>PM</tipo>
+        <cedula>2400000929</cedula>
+        <contribuyente>DAVID ORLANDO TOALO RODRIGUEZ</contribuyente>
+        <clavecatastral>52-1-2-3-4-8</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>30</valortitulo>
+        <anio>2015</anio>
+        <interes>30</interes>
+    </deudapredio>
+    <deudapredio>
+        <tipo>PM</tipo>
+        <cedula>2400000929</cedula>
+        <contribuyente>DAVID ORLANDO TOALO RODRIGUEZ</contribuyente>
+        <clavecatastral>52-1-2-3-4-8</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>105</valortitulo>
+        <anio>2016</anio>
+        <interes>12.50</interes>
+    </deudapredio>
+    <deudapredio>
+        <tipo>PM</tipo>
+        <cedula>2400007072</cedula>
+        <contribuyente>JOHANNA RAMIREZ</contribuyente>
+        <clavecatastral>52-1-2-3-4-8</clavecatastral>
+        <detalletitulo>DEUDA PREDIAL</detalletitulo>
+        <valortitulo>97.2</valortitulo>
+        <anio>2016</anio>
+        <interes>2.8</interes>
+    </deudapredio>
+</deudamunicipal>

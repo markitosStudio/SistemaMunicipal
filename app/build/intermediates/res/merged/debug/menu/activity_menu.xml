@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".control.MainActivity" >
+    <item android:id="@+id/opcMunicipio"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Mi Municipio"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/opcNoticias"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Noticias"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/opcServLinea"
+        android:title="Servicios en linea"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/opcImpPredial" android:title="Impuesto Predial" ></item>
+            <item android:id="@+id/opcPatMunicipal" android:title="Patente Municipal" ></item>
+        </menu>
+    </item>
+    <item android:id="@+id/opcPagos"
+        android:title="Pagos"
+        android:orderInCategory="4"
+        android:showAsAction="never">
+        <menu>
+            <item android:id="@+id/opcBanGuayaquil" android:title="Banco Guayaquil 78986510" ></item>
+            <item android:id="@+id/opcBanPacifico" android:title="Banco del Pacifico 78986511" ></item>
+            <item android:id="@+id/opcBanPichinca" android:title="Banco del Pichinca 78986512" ></item>
+        </menu>
+    </item>
+    <item android:id="@+id/opcPunRecaudacion"
+        android:title="Puntos de recaudación"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/opcTransparencia"
+        android:title="Transparencia"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/opcColectividad"
+        android:title="Colectividad"
+        android:orderInCategory="100"
+        android:showAsAction="never" >
+        <menu>
+            <item android:id="@+id/opcSugerencia" android:title="Sugerencias" ></item>
+            <item android:id="@+id/opcQuejas" android:title="Quejas" ></item>
+            <item android:id="@+id/opcInfPublica" android:title="Información Pública" ></item>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="curso.android.sistemamunicipal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_bienvenida"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="curso.android.sistemamunicipal.control.Bienvenida"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="curso.android.sistemamunicipal.control.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.Municipio"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.BancoPagos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.ImpuestoPredial"
+            android:label="@string/app_name_predio"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.PatenteMunicipal"
+            android:label="@string/app_name_patente"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

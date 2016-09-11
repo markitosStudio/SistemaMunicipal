@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/xml/municipio.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/xml/municipio.xml"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/xml/prediourbano.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/xml/prediourbano.xml"
+    }
+]

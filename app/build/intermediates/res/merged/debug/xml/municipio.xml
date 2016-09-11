@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miMunicipio>
+    <titulo>
+        GOBIERNO AUTONOMO DESCENTRALIZADO PROVINCIAL DE PRUEBA
+    </titulo>
+    <municipio1>
+        Santa Elena es una provincia de la costa de Ecuador creada el 7 de noviembre de 2007, la más reciente de las 24 actuales, con territorios que anterior a esa fecha formaban parte de la provincia del Guayas, al oeste de ésta. Su capital es la ciudad de Santa Elena. En esta provincia se encuentra una gran infraestructura hotelera, una refinería de petróleo, aeropuerto y puerto marítimo.
+    </municipio1>
+    <municipio2>
+        El comercio se basa en la pesca y turismo que inicia desde Enero a Abril se recibe turismo de Costa y de Julio a Septiembre turismo de Sierra catalogado un verdadero paraíso terrenal. Una de las principales delicias con las que cuenta esta provincia, son los camarones al ajillo,  la cazuela de mariscos y el sancocho de pescado (caldo de pescado, yuca, y verde);platos exquisitos que son un deleite para el paladar del consumidor y que aportan a su vez muchos nutrientes que el cuerpo necesita.
+    </municipio2>
+    <vision>
+        esta es la información del municipio para la visión
+    </vision>
+    <mision>
+        esta es la información del municipio para la misión
+    </mision>
+</miMunicipio>
