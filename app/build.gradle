@@ -10,6 +10,8 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
+
     }
     buildTypes {
         release {
@@ -27,4 +29,5 @@ dependencies {
     compile files('libs/mail.jar')
     compile 'com.itextpdf:itextpdf:5.5.9'
     compile 'com.itextpdf.tool:xmlworker:5.5.9'
+
 }
