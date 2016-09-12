@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
                 break;
             case R.id.opcPunRecaudacion:
-                i= new Intent(MainActivity.this, Municipio.class);
+                i= new Intent(MainActivity.this, PuntosRecaudacionActivity.class);
                 startActivity(i);
                 break;
             case R.id.opcTransparencia:

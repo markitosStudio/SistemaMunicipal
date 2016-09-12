@@ -2,4 +2,5 @@
     <string name="app_name">Sistema Municipal</string>
     <string name="app_name_predio">Sistema Municipal P. Urbano</string>
     <string name="app_name_patente">Sistema Municipal P. Municipal</string>
+    <string name="app_name_puntos_recaudacion">Puntos de Recaudación</string>
 </resources>
