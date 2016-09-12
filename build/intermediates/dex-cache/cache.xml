@@ -1,2 +1,432 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/markitos/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.9/af7e24e11af3aeb7f25dfe342b050dd1618f2a54/itextpdf-5.5.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="af7e24e11af3aeb7f25dfe342b050dd1618f2a54">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/itextpdf-5.5.9_8a1fba25b5d8df06d53d039da479f5704af467f7.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.4.0_785e5f11a58ef9fa5ef1f819e9a0c065647cebee.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.4.0_d99c68bf59a549fdeaea48cfda3c226a997186e1.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_28cc5f779c5dc1282d0c78fa2324079e42fb88af.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_2e2dcca57ca7ed2ab32f741639d60c536ee9e7b6.jar" />
+    </item>
+    <item
+        jar="/home/markitos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_204e0845eec76b1d9ca76aa8d103c81b513d1bee.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.4.0_8232977aef3159dd0b6221af6543a3f8e0106d67.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.4.0_098787b47062cc69da0300221aabf22f7b2f43da.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.4.0_1a737956ccc9fbd57f3b4ffea8ee66818b59e674.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/activation_98a88ceaf763d9a008519107bea658061463ac2a.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.4.0_e91572f11307b3b0b4226b3616f21880a7102537.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_c69ff6d16fc96e2ec42eb79de4ac411b1b937873.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.4.0_f0254d50cb158fbcafd15b53fff1b7d03265ed8d.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.4.0_e8a3a7a8b032fe71abd2ea41300f9cc32994ba53.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.4.0_c0912bb7464b800ede19b540b380e13f10764704.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_2dcc8e23aa852bdda5912ed3a20de3cebad0a128.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.4.0_0fa537ffe5056c58a3cdf9ff59c00075b2a1ea8c.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.4.0_95fbdb2590a73964d5c511aad9d94604bac04114.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.4.0_69bcd02f8ffe7a5c81ed2c69e15850d2bc0caefd.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.4.0_46689e0dbabc17cc9ce751bbbc03d25113f96601.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_3eca4a1a1f732735c5ffbc1dc72e685b3d8e36fc.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.4.0_16af61cd8e3802370f0f3086a5b7c7db22d3f64d.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_f8d28a731d8eb2f2654f143133f821ccfedf8da1.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_4c2c5884ee1c9c56d6afc6eb36490d08a13d0cb4.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.4.0_3db283fd460a608b7620ccc8d1655702ecd85a0b.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_2aef7c3c09dcb0b7d3d69d5e88fbe300667f17ed.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.4.0_a7ea242a1fa42b885fdbcf7c985c24afd9535c07.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.4.0_e72615ef3f22371b24986fb5b288e5f47103dc97.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.4.0_9b6a2e3e90878258d48692e95b2ca807f5232e53.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.4.0_6a0c75a8c9c5e4e6f8c05261f722962da4960bf8.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_56e4315cd13c524c7a3c311c8f744e27d56d6336.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.4.0_8ea5f3de6b3fc4ecd46c6332b97bbabad56ed7d3.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f207c2ad75eaa3b1c25345f24c7de6034eb75b48.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a3442eadbada6e3122c1190e539c39b107976cb5.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_626514aac0a194ebdf49160864f079cac21d45a0.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/additionnal_d9b3027d5645ec0362c3d9962c5a68743659c7b1.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.4.0_6100bda61cb80503f8e5d590bd99e75cfba32a58.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.4.0_11dbbb03e5beb8c93d94c1a0e326b79b82f82a31.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_81f57876509a70cb6bbb9ec8daa2ea7fe4fbd77f.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.4.0_f97e1cd7b6b5a28217c0375a3a5ab12c2019c690.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.4.0_e6afed9daa5fb0f2bc18a9214d9dc18b056615ce.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_69a2383a453936078fbda02291e504302046f00d.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.4.0_83660a8147541058447a13608a2274ee2c4259da.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.4.0_0fb9b20359e78617e20ae2ae7c8044de3d4a5894.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.4.0_95e30c7dc11b1ecf4e887a9d2388dfa7665fa179.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-contextmanager-9.4.0_f6be5786eea2c76bf73ec3ba0fa65cef0e7f9728.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.4.0_91919a4948faad2dc4f2f71a322036b7dc95a245.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_3ff67cb26167a3ff62e3116165c878f61b26f84a.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_d380d08b915f601d1f7ca13e2f82d328a59c60b4.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.4.0_0b9430de4f6a3324630c8e763cbaf1e24c494647.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.4.0_a050e42a7ecc12f9aabfd57434ec7b559c8250c9.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.4.0_048cd1ac5a934d0e198673aa1de91fcf78553153.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.4.0_d2ef0dda064a0fc2547dc6f653e44152cb712905.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.4.0_49e44a8214afa6edc14015e4f95d245421edddf6.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.4.0_6cc256741b06bc6bb9c6e3cfd7193d3c913470d0.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.4.0_8490231b70fb3347931295f6b085336d6c6d4836.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/mail_c485000e16393d1e9dc66062ca7dbe84efeb1dda.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.4.0_84509494ffd7f27d4bff0df55b3c9cbe32e4b381.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_86cd6dda0c0ec67d5146cffab403690f29d757bd.jar" />
+    </item>
+    <item
+        jar="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.4.0_d572df286c1305ce87c8e2b47e10248821b02a36.jar" />
+    </item>
+    <item
+        jar="/home/markitos/.gradle/caches/modules-2/files-2.1/com.itextpdf.tool/xmlworker/5.5.9/4e2cf5d18b59d0f12980590a6fe745381326881c/xmlworker-5.5.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4e2cf5d18b59d0f12980590a6fe745381326881c">
+        <dex dex="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/pre-dexed/debug/xmlworker-5.5.9_deb8cc3fe351435ac905de1728ca112bc9552210.jar" />
+    </item>
+
+</items>

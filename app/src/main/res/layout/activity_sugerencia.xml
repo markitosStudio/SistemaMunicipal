@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/styleLayoutEspaciado">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Formulario de Sugerencia"
+        android:id="@+id/textView2"
+        style="@style/styleTituloPrincipal"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView">
+
+        <LinearLayout
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Valoramos su opinión.  Gracias por ayudarnos a mejorar."
+                android:id="@+id/textView"
+                android:layout_gravity="left"
+                android:paddingBottom="10dp" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:layout_gravity="fill"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Nombres y Apellidos(*):"
+                    android:id="@+id/vieNombre" />
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtNombre"
+                    android:layout_gravity="fill_horizontal"
+                    android:maxLength="255" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Cédula(*):"
+                    android:id="@+id/vieCedula" />
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/txtCedula"
+                    android:layout_gravity="fill_horizontal"
+                    android:maxLength="10"
+                    android:inputType="number" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Teléfono:"
+                    android:id="@+id/vieTelefono" />
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtTelefono"
+                    android:layout_gravity="fill_horizontal"
+                    android:phoneNumber="true"
+                    android:maxLength="10"
+                    android:inputType="number" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Celular:"
+                    android:id="@+id/vieCelular" />
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtCelular"
+                    android:layout_gravity="fill_horizontal"
+                    android:phoneNumber="true"
+                    android:maxLength="10"
+                    android:inputType="number" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Correo electrónico(*):"
+                    android:id="@+id/vieCorreo" />
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtCorreo"
+                    android:layout_gravity="fill_horizontal"
+                    android:maxLength="50" />
+
+            </GridLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Descripción(*):"
+                android:id="@+id/vieDescripcion" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtDescripcion"
+                android:layout_gravity="fill_horizontal"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:minLines="2"
+                android:maxLines="2"
+                android:isScrollContainer="true"
+                android:singleLine="true"
+                android:maxLength="255" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enviar"
+                android:id="@+id/btnEnviar"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

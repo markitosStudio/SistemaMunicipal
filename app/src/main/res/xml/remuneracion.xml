@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remuneracion>
+    <numero>1</numero>
+    <nombre>Alvarado Cochea Ivan Ernesto</nombre>
+    <cedula>0910524115</cedula>
+    <cargo>Jefe de Cuadrilla</cargo>
+    <sueldoMensual>778.23</sueldoMensual>
+
+    <numero>2</numero>
+    <nombre>Alvia Villalta Jose Guillermo</nombre>
+    <cedula>0906483649</cedula>
+    <cargo>Controlador</cargo>
+    <sueldoMensual>696.64</sueldoMensual>
+
+    <numero>3</numero>
+    <nombre>Apolinario Tigrero Jimmy Manuel</nombre>
+    <cedula>0914640826</cedula>
+    <cargo>Chofer Categoria Especial</cargo>
+    <sueldoMensual>746.09</sueldoMensual>
+
+    <numero>4</numero>
+    <nombre>Aquino Alejandro Gustavo Andres</nombre>
+    <cedula>0925272494</cedula>
+    <cargo>Cadenero</cargo>
+    <sueldoMensual>410</sueldoMensual>
+
+    <numero>5</numero>
+    <nombre>Asuncion Menendez Angel Ramon</nombre>
+    <cedula>1302566565</cedula>
+    <cargo>Albañil</cargo>
+    <sueldoMensual>812.85</sueldoMensual>
+</remuneracion>

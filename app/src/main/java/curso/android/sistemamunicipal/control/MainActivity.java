@@ -92,14 +92,14 @@ public class MainActivity extends AppCompatActivity {
             case R.id.opcBanPacifico:
                 i= new Intent(MainActivity.this, BancoPagos.class);
                 b= new Bundle();
-                b.putString("link","https://www.google.com.ec");
+                b.putString("link","https://www.bancodelpacifico.com/Desktop.aspx?Id=1");
                 i.putExtras(b);
                 startActivity(i);
                 break;
             case R.id.opcBanPichinca:
                 i= new Intent(MainActivity.this, BancoPagos.class);
                 b= new Bundle();
-                b.putString("link","https://www.facebook.com/");
+                b.putString("link","https://www.pichincha.com/portal/Inicio");
                 i.putExtras(b);
                 startActivity(i);
                 break;
@@ -108,19 +108,19 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
                 break;
             case R.id.opcTransparencia:
-                i= new Intent(MainActivity.this, Municipio.class);
+                i= new Intent(MainActivity.this, Transparencia.class);
                 startActivity(i);
                 break;
             case R.id.opcSugerencia:
-                i= new Intent(MainActivity.this, Municipio.class);
+                i= new Intent(MainActivity.this, FormularioSugerencia.class);
                 startActivity(i);
                 break;
             case R.id.opcQuejas:
-                i= new Intent(MainActivity.this, Municipio.class);
+                i= new Intent(MainActivity.this, FormularioQueja.class);
                 startActivity(i);
                 break;
             case R.id.opcInfPublica:
-                i= new Intent(MainActivity.this, Municipio.class);
+                i= new Intent(MainActivity.this, FormularioInformacion.class);
                 startActivity(i);
                 break;
         }

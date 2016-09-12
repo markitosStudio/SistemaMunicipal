@@ -4,45 +4,30 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="36579919901639"
+    timestamp="58118401422902"
     token="872526161369081305" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="363" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="183" />
     <task
         name="verifier"
-        duration="0" />
+        duration="11" />
 
-    <build timestamp="22697337958312" >
+    <artifact
+        location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="58118401422902" >
         <artifact
             location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="35055725632246" >
-        <artifact
-            location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="36367066262292" >
-        <artifact
-            location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="36544473132920" >
-        <artifact
-            location="/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="36579919901639" />
 
 </instant-run>

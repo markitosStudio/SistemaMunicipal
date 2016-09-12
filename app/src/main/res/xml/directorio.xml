@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<directorio>
+    <numero>
+        1
+    </numero>
+    <cargo>
+        Coordinador General de Gestión Municipal
+    </cargo>
+    <nombres>
+        Lic. Leopoldo Ricaurte Amador
+    </nombres>
+    <numero>
+        2
+    </numero>
+    <cargo>
+        Secretaria General
+    </cargo>
+    <nombres>
+        Abg. Romo Pesántez Gabriel
+    </nombres>
+    <numero>
+        3
+    </numero>
+    <cargo>
+        Pro-Secretaria
+    </cargo>
+    <nombres>
+        Sr. Fabián Zamora Cedeño
+    </nombres>
+    <numero>
+        4
+    </numero>
+    <cargo>
+        Auditoría Interna
+    </cargo>
+    <nombres>
+        Ing. Carlos Roldán Martínez
+    </nombres>
+</directorio>

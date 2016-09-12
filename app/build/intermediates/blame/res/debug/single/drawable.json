@@ -224,12 +224,12 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
-        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_pause_large.xml"
-    },
-    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/drawable/g.jpg",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/drawable/g.jpg"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_pause_large.xml"
     },
     {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",

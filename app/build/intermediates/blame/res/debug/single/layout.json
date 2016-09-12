@@ -32,6 +32,10 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_sugerencia.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_sugerencia.xml"
+    },
+    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
     },
@@ -72,12 +76,16 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
-    },
-    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_queja.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_queja.xml"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
     },
     {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
@@ -88,12 +96,16 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_bienvenida.xml"
     },
     {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_punto_recaudacion_detalle.xml",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_punto_recaudacion_detalle.xml"
     },
     {
-        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_informacion.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_informacion.xml"
     },
     {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
@@ -172,6 +184,10 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
     },
     {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/activity_transparencia.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/src/main/res/layout/activity_transparencia.xml"
+    },
+    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
@@ -208,12 +224,12 @@
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/markitos/AndroidStudioProjects/SistemaMunicipal/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",

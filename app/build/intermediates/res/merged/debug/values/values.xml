@@ -61,7 +61,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorBlack">#101010</color>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#303f9f</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
@@ -159,6 +159,7 @@
     <declare-styleable name="CustomWalletTheme"><attr format="enum" name="windowTransitionStyle"><enum name="slide" value="1"/><enum name="none" value="2"/></attr><attr format="enum" name="toolbarTextColorStyle"><enum name="light" value="1"/><enum name="dark" value="2"/></attr></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="arrowHeadLength"/><attr format="dimension" name="arrowShaftLength"/><attr format="dimension" name="barLength"/><attr format="dimension" name="thickness"/></declare-styleable>
     <declare-styleable name="FeatureParam"><attr format="string" name="paramName"/><attr format="string" name="paramValue"/></declare-styleable>
+    <declare-styleable name="Gallery1"><attr name="android:galleryItemBackground"/></declare-styleable>
     <declare-styleable name="GlobalSearch"><attr format="boolean" name="searchEnabled"/><attr format="string" localization="suggested" name="searchLabel"/><attr format="string" localization="suggested" name="settingsDescription"/><attr format="string" name="defaultIntentAction"/><attr format="string" name="defaultIntentData"/><attr format="string" name="defaultIntentActivity"/></declare-styleable>
     <declare-styleable name="GlobalSearchCorpus"><attr format="boolean" name="allowShortcuts"/></declare-styleable>
     <declare-styleable name="GlobalSearchSection"><attr format="enum" name="sectionType"><enum name="text1" value="0"/><enum name="text2" value="1"/><enum name="icon_uri" value="2"/><enum name="intent_action" value="3"/><enum name="intent_data" value="4"/><enum name="intent_data_id" value="5"/><enum name="intent_extra_data" value="6"/><enum name="large_icon_uri" value="7"/><enum name="intent_activity" value="8"/><enum name="thing_proto" value="9"/></attr><attr format="string" localization="suggested" name="sectionContent"/></declare-styleable>
@@ -1851,5 +1852,18 @@
         <item name="android:focusable">true</item>
         <item name="android:contentDescription">@string/mr_media_route_button_content_description</item>
         <item name="externalRouteEnabledDrawable">@drawable/mr_ic_media_route_mono_dark</item>
+    </style>
+    <style name="styleLayoutEspaciado">
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+    </style>
+    <style name="styleTituloPrincipal">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
     </style>
 </resources>

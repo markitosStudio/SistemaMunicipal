@@ -22,11 +22,6 @@ public class GridViewImageAdapter extends BaseAdapter {
         mContext = c;
         //se cargan las miniaturas
         listPhoto=pListPhoto;
-        /*listPhoto.add(R.drawable.cac1);
-        listPhoto.add(R.drawable.cac2);
-        listPhoto.add(R.drawable.cac3);
-        listPhoto.add(R.drawable.cac4);*/
-
     }
 
     @Override

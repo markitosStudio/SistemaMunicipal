@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    style="@style/styleLayoutEspaciado"
+    tools:context=".control.Transparencia"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ley de Transparencia"
+        android:id="@+id/txt1"
+        android:layout_gravity="center_horizontal"
+        style="@style/styleTituloPrincipal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Art. 7.- Difusión de la Información Pública"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:id="@+id/txt2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Por la transparencia en la gestión administrativa que están obligadas a observar todas las instituciones del Estado que conforman el sector público en los términos de los artículos 253 y 264 de la Constitución Política de la República y demás entes señalados en el artículo 1 de la presente Ley, difundirán a través de un portal de información o página web, así como de los medios necesarios a disposición del público, implementados en la misma institución, la siguiente información mínima actualizada, que para efectos de esta Ley, se la considera de naturaleza obligatoria:"
+        android:textSize="12dp"
+        android:id="@+id/txt3"
+        android:textStyle="italic" />
+
+    <Space
+        android:layout_width="20px"
+        android:layout_height="20px" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Directorio de la Institución"
+        android:textSize="12dp"
+        android:id="@+id/txt4"
+        android:textColorLink="@color/wallet_link_text_light"
+        android:textAppearance="@color/colorPrimaryDark"
+        android:theme="@style/Base.V21.Theme.AppCompat.Dialog" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remuneraciones"
+        android:textSize="12dp"
+        android:id="@+id/txt5"
+        android:textColorLink="@color/wallet_link_text_light"
+        android:textAppearance="@color/colorPrimaryDark"
+        android:theme="@style/Base.V21.Theme.AppCompat.Dialog" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Servicios"
+        android:textSize="12dp"
+        android:id="@+id/txt6"
+        android:textColorLink="@color/wallet_link_text_light"
+        android:textAppearance="@color/colorPrimaryDark"
+        android:theme="@style/Base.V21.Theme.AppCompat.Dialog" />
+</LinearLayout>

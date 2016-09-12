@@ -10,7 +10,11 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Optional permission for Analytics to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
@@ -67,6 +71,18 @@
         <activity
             android:name="curso.android.sistemamunicipal.control.PuntosRecaudacionDetalleActivity"
             android:label="@string/app_name_puntos_recaudacion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.FormularioSugerencia"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.FormularioQueja"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.FormularioInformacion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="curso.android.sistemamunicipal.control.Transparencia"
             android:screenOrientation="portrait" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity

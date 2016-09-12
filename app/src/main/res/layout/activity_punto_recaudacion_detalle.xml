@@ -62,7 +62,7 @@
                     android:orientation="vertical">
 
 
-                    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+                    <!--<GridView xmlns:android="http://schemas.android.com/apk/res/android"
                         xmlns:tools="http://schemas.android.com/tools"
                         android:id="@+id/gridGaleria"
                         android:layout_width="wrap_content"
@@ -74,7 +74,16 @@
                         android:verticalSpacing="5dp"
                         tools:context=".GridImageActivity" >
 
-                    </GridView>
+                    </GridView>-->
+
+                    <Gallery
+                        android:id="@+id/gallery"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:spacing="8dp"
+                        android:background="@android:color/darker_gray"
+                        android:paddingTop="4dp"
+                        />
 
 
 

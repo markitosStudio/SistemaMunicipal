@@ -11,6 +11,8 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
+import android.widget.AdapterView;
+import android.widget.Gallery;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TabHost;
@@ -28,6 +30,8 @@ import java.util.ArrayList;
 
 import curso.android.sistemamunicipal.R;
 
+import curso.android.sistemamunicipal.personalizado.BitmapUtils;
+import curso.android.sistemamunicipal.personalizado.GalleryAdapter;
 import curso.android.sistemamunicipal.personalizado.GridViewImageAdapter;
 
 /**
@@ -39,6 +43,7 @@ public class PuntosRecaudacionDetalleActivity extends AppCompatActivity implemen
     protected TabHost tabs;
     protected ImageView imagenSeleccionada;
     protected GridView gridGaleria;
+    protected Gallery gallery;
 
 
     private GoogleMap mMap;
@@ -47,22 +52,22 @@ public class PuntosRecaudacionDetalleActivity extends AppCompatActivity implemen
     private int vLugar;
     private ArrayList<Integer> listPhoto = new ArrayList<Integer>();
 
-    //
+
     private static final String TAG = "Touch";
-    @SuppressWarnings("unused")
+
     private static final float MIN_ZOOM = 1f,MAX_ZOOM = 1f;
 
-    // These matrices will be used to scale points of the image
+
     Matrix matrix = new Matrix();
     Matrix savedMatrix = new Matrix();
 
-    // The 3 states (events) which the user is trying to perform
+
     static final int NONE = 0;
     static final int DRAG = 1;
     static final int ZOOM = 2;
     int mode = NONE;
 
-    // these PointF objects are used to record the point(s) the user is touching
+
     PointF  start = new PointF();
     PointF mid = new PointF();
     float oldDist = 1f;
@@ -131,20 +136,27 @@ public class PuntosRecaudacionDetalleActivity extends AppCompatActivity implemen
         }
 
 
+        gallery = (Gallery) findViewById(R.id.gallery);
+        gallery.setAdapter(new GalleryAdapter(this, listPhoto));
+
+        gallery.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                imagenSeleccionada.setImageBitmap(BitmapUtils.decodeSampledBitmapFromResource(getResources(), listPhoto.get(position), 300, 0));
+            }
+        });
 
 
-        gridGaleria = (GridView) findViewById( R.id.gridGaleria );
+        /*gridGaleria = (GridView) findViewById( R.id.gridGaleria );
         gridGaleria.setAdapter( new GridViewImageAdapter(this,listPhoto) );
 
-       /* gridGaleria.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                GridViewImageAdapter adapterGrid = (GridViewImageAdapter) gridGaleria.getAdapter();
 
-                //Aqui pienso yo que deberia ir la programacion para poder seleccionar la imagen del grid via y pasarla ala image view
-                ///imagenSeleccionada.setImageResource(adapterGrid.getItem(v.getId())));
-            }
-        });*/
+       gridGaleria.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+           @Override
+           public void onItemClick(AdapterView parent, View v, int position, long id) {
+               imagenSeleccionada.setImageBitmap(BitmapUtils.decodeSampledBitmapFromResource(getResources(), listPhoto.get(position), 300, 0));
+           }
+       });*/
 
 
     }
